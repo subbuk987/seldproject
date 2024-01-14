@@ -1,0 +1,1793 @@
+Tracked Sound Events:
+Sound Event ID: 7_0
+Azimuths: [0.0002765671, 0.0002765671]
+Elevations: [0.0018237742, 0.0018237742]
+Distances: [0.03348168, 0.03348168]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_1
+Azimuths: [8.289145e-05, 8.289145e-05]
+Elevations: [0.0014561657, 0.0014561657]
+Distances: [0.005245926, 0.005245926]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_2
+Azimuths: [4.422626e-06, 4.422626e-06]
+Elevations: [0.000716128, 0.000716128]
+Distances: [0.0006328742, 0.0006328742]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_3
+Azimuths: [4.474654e-07, 4.474654e-07]
+Elevations: [0.0010695248, 0.0010695248]
+Distances: [4.5443874e-05, 4.5443874e-05]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_4
+Azimuths: [6.1989517e-06, 6.1989517e-06]
+Elevations: [0.004524852, 0.004524852]
+Distances: [0.00035100637, 0.00035100637]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_5
+Azimuths: [1.5473646e-06, 1.5473646e-06]
+Elevations: [0.0020825884, 0.0020825884]
+Distances: [5.572076e-05, 5.572076e-05]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_6
+Azimuths: [1.3688912e-05, 1.3688912e-05]
+Elevations: [0.0054694307, 0.0054694307]
+Distances: [0.00032817601, 0.00032817601]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_7
+Azimuths: [1.563812e-05, 1.563812e-05]
+Elevations: [0.0013851804, 0.0013851804]
+Distances: [0.00051151507, 0.00051151507]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_8
+Azimuths: [8.83041e-05, 8.83041e-05]
+Elevations: [0.001330363, 0.001330363]
+Distances: [0.0029045702, 0.0029045702]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_9
+Azimuths: [0.00052886386, 0.00052886386]
+Elevations: [0.0137317255, 0.0137317255]
+Distances: [0.009809595, 0.009809595]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_10
+Azimuths: [0.00031442, 0.00031442]
+Elevations: [0.0036045806, 0.0036045806]
+Distances: [0.014510806, 0.014510806]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_11
+Azimuths: [0.0013251081, 0.0013251081]
+Elevations: [0.029705903, 0.029705903]
+Distances: [0.022483535, 0.022483535]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_12
+Azimuths: [0.00033337064, 0.00033337064]
+Elevations: [0.04676664, 0.04676664]
+Distances: [0.0059414804, 0.0059414804]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_13
+Azimuths: [0.00030879435, 0.00030879435]
+Elevations: [0.07853154, 0.07853154]
+Distances: [0.0071934136, 0.0071934136]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_14
+Azimuths: [0.00062513456, 0.00062513456]
+Elevations: [0.13106926, 0.13106926]
+Distances: [0.006246215, 0.006246215]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_15
+Azimuths: [0.00039412812, 0.00039412812]
+Elevations: [0.06924708, 0.06924708]
+Distances: [0.00477139, 0.00477139]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_16
+Azimuths: [0.0013446785, 0.0013446785]
+Elevations: [0.08716292, 0.08716292]
+Distances: [0.01092037, 0.01092037]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_17
+Azimuths: [0.024353178, 0.024353178]
+Elevations: [0.31411648, 0.31411648]
+Distances: [0.019085519, 0.019085519]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_18
+Azimuths: [0.024513818, 0.024513818]
+Elevations: [0.44152975, 0.44152975]
+Distances: [0.010888042, 0.010888042]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_19
+Azimuths: [0.0077659437, 0.0077659437]
+Elevations: [0.45194727, 0.45194727]
+Distances: [0.0070239273, 0.0070239273]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_20
+Azimuths: [0.0069816243, 0.0069816243]
+Elevations: [0.4211058, 0.4211058]
+Distances: [0.012765257, 0.012765257]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_21
+Azimuths: [0.06985266, 0.06985266]
+Elevations: [0.68642694, 0.68642694]
+Distances: [0.05240801, 0.05240801]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_22
+Azimuths: [0.22821948, 0.22821948]
+Elevations: [0.81576157, 0.81576157]
+Distances: [0.08726436, 0.08726436]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_23
+Azimuths: [0.07770747, 0.07770747]
+Elevations: [0.7510211, 0.7510211]
+Distances: [0.046780746, 0.046780746]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_24
+Azimuths: [0.36052227, 0.36052227]
+Elevations: [0.8917816, 0.8917816]
+Distances: [0.12301797, 0.12301797]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_25
+Azimuths: [0.26947865, 0.26947865]
+Elevations: [0.926565, 0.926565]
+Distances: [0.07226265, 0.07226265]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_26
+Azimuths: [0.3008933, 0.3008933]
+Elevations: [0.94963, 0.94963]
+Distances: [0.06813167, 0.06813167]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_27
+Azimuths: [0.53191406, 0.53191406]
+Elevations: [0.97132796, 0.97132796]
+Distances: [0.11177178, 0.11177178]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_28
+Azimuths: [0.5494828, 0.5494828]
+Elevations: [0.9782336, 0.9782336]
+Distances: [0.09673268, 0.09673268]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_29
+Azimuths: [0.10617866, 0.10617866]
+Elevations: [0.96275634, 0.96275634]
+Distances: [0.028798915, 0.028798915]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_30
+Azimuths: [0.02456497, 0.02456497]
+Elevations: [0.94284356, 0.94284356]
+Distances: [0.011035704, 0.011035704]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_31
+Azimuths: [0.034586295, 0.034586295]
+Elevations: [0.95001733, 0.95001733]
+Distances: [0.014398973, 0.014398973]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_32
+Azimuths: [0.14647862, 0.14647862]
+Elevations: [0.9780359, 0.9780359]
+Distances: [0.05708161, 0.05708161]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_33
+Azimuths: [0.19648464, 0.19648464]
+Elevations: [0.9586294, 0.9586294]
+Distances: [0.3688881, 0.3688881]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_34
+Azimuths: [0.9873419, 0.9873419]
+Elevations: [0.9956011, 0.9956011]
+Distances: [0.9339318, 0.9339318]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_35
+Azimuths: [0.99875045, 0.99875045]
+Elevations: [0.99731666, 0.99731666]
+Distances: [0.9493723, 0.9493723]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_36
+Azimuths: [0.99647045, 0.99647045]
+Elevations: [0.99940765, 0.99940765]
+Distances: [0.90517116, 0.90517116]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_37
+Azimuths: [0.9736504, 0.9736504]
+Elevations: [0.99979943, 0.99979943]
+Distances: [0.534791, 0.534791]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_38
+Azimuths: [0.9486295, 0.9486295]
+Elevations: [0.99963546, 0.99963546]
+Distances: [0.6018529, 0.6018529]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_39
+Azimuths: [0.96880394, 0.96880394]
+Elevations: [0.99950546, 0.99950546]
+Distances: [0.5587148, 0.5587148]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_40
+Azimuths: [0.98742664, 0.98742664]
+Elevations: [0.9995219, 0.9995219]
+Distances: [0.54308647, 0.54308647]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_41
+Azimuths: [0.93313646, 0.93313646]
+Elevations: [0.9990124, 0.9990124]
+Distances: [0.46277964, 0.46277964]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_42
+Azimuths: [0.98073846, 0.98073846]
+Elevations: [0.99960834, 0.99960834]
+Distances: [0.64950025, 0.64950025]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_43
+Azimuths: [0.17031331, 0.17031331]
+Elevations: [0.98814577, 0.98814577]
+Distances: [0.36105767, 0.36105767]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_44
+Azimuths: [0.9965122, 0.9965122]
+Elevations: [0.9996048, 0.9996048]
+Distances: [0.8574968, 0.8574968]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_45
+Azimuths: [0.9887672, 0.9887672]
+Elevations: [0.9997056, 0.9997056]
+Distances: [0.705698, 0.705698]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_46
+Azimuths: [0.992748, 0.992748]
+Elevations: [0.9997585, 0.9997585]
+Distances: [0.37370014, 0.37370014]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_47
+Azimuths: [0.85184366, 0.85184366]
+Elevations: [0.9992949, 0.9992949]
+Distances: [0.052863196, 0.052863196]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_48
+Azimuths: [0.6937634, 0.6937634]
+Elevations: [0.99846053, 0.99846053]
+Distances: [0.059148524, 0.059148524]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_49
+Azimuths: [0.9950066, 0.9950066]
+Elevations: [0.99964213, 0.99964213]
+Distances: [0.2284256, 0.2284256]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_50
+Azimuths: [0.9975364, 0.9975364]
+Elevations: [0.9998136, 0.9998136]
+Distances: [0.411344, 0.411344]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_51
+Azimuths: [0.9967152, 0.9967152]
+Elevations: [0.9998232, 0.9998232]
+Distances: [0.2636283, 0.2636283]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_52
+Azimuths: [0.99876857, 0.99876857]
+Elevations: [0.99987936, 0.99987936]
+Distances: [0.26383537, 0.26383537]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_53
+Azimuths: [0.9970608, 0.9970608]
+Elevations: [0.99981844, 0.99981844]
+Distances: [0.16985127, 0.16985127]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_54
+Azimuths: [0.98099387, 0.98099387]
+Elevations: [0.99973124, 0.99973124]
+Distances: [0.0053615794, 0.0053615794]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_55
+Azimuths: [0.41950622, 0.41950622]
+Elevations: [0.9983394, 0.9983394]
+Distances: [0.0009687053, 0.0009687053]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_56
+Azimuths: [0.15083043, 0.15083043]
+Elevations: [0.9845174, 0.9845174]
+Distances: [0.0011417358, 0.0011417358]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_57
+Azimuths: [0.9013387, 0.9013387]
+Elevations: [0.99936163, 0.99936163]
+Distances: [0.007505365, 0.007505365]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_58
+Azimuths: [0.8306078, 0.8306078]
+Elevations: [0.99897605, 0.99897605]
+Distances: [0.005549667, 0.005549667]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_59
+Azimuths: [0.98746014, 0.98746014]
+Elevations: [0.99969095, 0.99969095]
+Distances: [0.033156306, 0.033156306]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_60
+Azimuths: [0.9958933, 0.9958933]
+Elevations: [0.9997589, 0.9997589]
+Distances: [0.05240815, 0.05240815]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_61
+Azimuths: [0.9983434, 0.9983434]
+Elevations: [0.99982, 0.99982]
+Distances: [0.04428756, 0.04428756]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_62
+Azimuths: [0.99775606, 0.99775606]
+Elevations: [0.9997836, 0.9997836]
+Distances: [0.11882188, 0.11882188]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_63
+Azimuths: [0.98339766, 0.98339766]
+Elevations: [0.99988014, 0.99988014]
+Distances: [0.018939644, 0.018939644]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_64
+Azimuths: [0.9710633, 0.9710633]
+Elevations: [0.99994445, 0.99994445]
+Distances: [0.007716431, 0.007716431]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_65
+Azimuths: [0.96528256, 0.96528256]
+Elevations: [0.9999238, 0.9999238]
+Distances: [0.0078034704, 0.0078034704]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_66
+Azimuths: [0.9892056, 0.9892056]
+Elevations: [0.9999254, 0.9999254]
+Distances: [0.019784566, 0.019784566]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_67
+Azimuths: [0.769108, 0.769108]
+Elevations: [0.9996489, 0.9996489]
+Distances: [0.0032040272, 0.0032040272]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_68
+Azimuths: [0.4732304, 0.4732304]
+Elevations: [0.9994804, 0.9994804]
+Distances: [0.0013766722, 0.0013766722]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_69
+Azimuths: [0.34765983, 0.34765983]
+Elevations: [0.99939233, 0.99939233]
+Distances: [0.0011304709, 0.0011304709]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_70
+Azimuths: [0.8137019, 0.8137019]
+Elevations: [0.9997515, 0.9997515]
+Distances: [0.0037110257, 0.0037110257]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_71
+Azimuths: [0.8122006, 0.8122006]
+Elevations: [0.99984753, 0.99984753]
+Distances: [0.0018214848, 0.0018214848]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_72
+Azimuths: [0.4739268, 0.4739268]
+Elevations: [0.9997829, 0.9997829]
+Distances: [0.0011320238, 0.0011320238]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_73
+Azimuths: [0.014099414, 0.014099414]
+Elevations: [0.99781126, 0.99781126]
+Distances: [0.00047344665, 0.00047344665]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_74
+Azimuths: [0.053244743, 0.053244743]
+Elevations: [0.9963782, 0.9963782]
+Distances: [0.0013296233, 0.0013296233]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_75
+Azimuths: [0.10468059, 0.10468059]
+Elevations: [0.9956138, 0.9956138]
+Distances: [0.0023319754, 0.0023319754]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_76
+Azimuths: [0.13713987, 0.13713987]
+Elevations: [0.99551356, 0.99551356]
+Distances: [0.001231989, 0.001231989]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_77
+Azimuths: [0.45369855, 0.45369855]
+Elevations: [0.99719614, 0.99719614]
+Distances: [0.0019579811, 0.0019579811]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_78
+Azimuths: [0.5585808, 0.5585808]
+Elevations: [0.9973933, 0.9973933]
+Distances: [0.00074680295, 0.00074680295]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_79
+Azimuths: [0.5926356, 0.5926356]
+Elevations: [0.9984395, 0.9984395]
+Distances: [0.00054529955, 0.00054529955]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_80
+Azimuths: [0.09746927, 0.09746927]
+Elevations: [0.99538475, 0.99538475]
+Distances: [0.0005932624, 0.0005932624]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_81
+Azimuths: [0.4525566, 0.4525566]
+Elevations: [0.99829847, 0.99829847]
+Distances: [0.0026241029, 0.0026241029]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_82
+Azimuths: [0.36913595, 0.36913595]
+Elevations: [0.99833375, 0.99833375]
+Distances: [0.003050208, 0.003050208]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_83
+Azimuths: [0.37417677, 0.37417677]
+Elevations: [0.9989471, 0.9989471]
+Distances: [0.002547948, 0.002547948]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_84
+Azimuths: [0.29438716, 0.29438716]
+Elevations: [0.9982931, 0.9982931]
+Distances: [0.008320129, 0.008320129]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_85
+Azimuths: [0.49718142, 0.49718142]
+Elevations: [0.9986984, 0.9986984]
+Distances: [0.004797623, 0.004797623]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_86
+Azimuths: [0.2164187, 0.2164187]
+Elevations: [0.9970859, 0.9970859]
+Distances: [0.0025025702, 0.0025025702]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_87
+Azimuths: [0.17124619, 0.17124619]
+Elevations: [0.9944472, 0.9944472]
+Distances: [0.001023727, 0.001023727]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_88
+Azimuths: [0.32911643, 0.32911643]
+Elevations: [0.99313754, 0.99313754]
+Distances: [0.00054577686, 0.00054577686]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_89
+Azimuths: [0.50713074, 0.50713074]
+Elevations: [0.99645835, 0.99645835]
+Distances: [0.0005337513, 0.0005337513]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_90
+Azimuths: [0.28599113, 0.28599113]
+Elevations: [0.996041, 0.996041]
+Distances: [0.00038547665, 0.00038547665]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_91
+Azimuths: [0.069268495, 0.069268495]
+Elevations: [0.9910224, 0.9910224]
+Distances: [0.0005563659, 0.0005563659]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_92
+Azimuths: [0.058815863, 0.058815863]
+Elevations: [0.9785387, 0.9785387]
+Distances: [0.0015076438, 0.0015076438]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_93
+Azimuths: [0.10086777, 0.10086777]
+Elevations: [0.98275983, 0.98275983]
+Distances: [0.0017610354, 0.0017610354]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_94
+Azimuths: [0.08728467, 0.08728467]
+Elevations: [0.9824191, 0.9824191]
+Distances: [0.0013585693, 0.0013585693]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_95
+Azimuths: [0.062339347, 0.062339347]
+Elevations: [0.9848549, 0.9848549]
+Distances: [0.00031515767, 0.00031515767]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_96
+Azimuths: [0.021436635, 0.021436635]
+Elevations: [0.97395086, 0.97395086]
+Distances: [0.00013935224, 0.00013935224]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_97
+Azimuths: [0.030041829, 0.030041829]
+Elevations: [0.97869426, 0.97869426]
+Distances: [0.0001999841, 0.0001999841]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_98
+Azimuths: [0.009627758, 0.009627758]
+Elevations: [0.96376187, 0.96376187]
+Distances: [0.0003041696, 0.0003041696]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_99
+Azimuths: [0.005607566, 0.005607566]
+Elevations: [0.8815263, 0.8815263]
+Distances: [0.0041052327, 0.0041052327]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_100
+Azimuths: [0.181848, 0.181848]
+Elevations: [0.9860219, 0.9860219]
+Distances: [0.013680403, 0.013680403]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_101
+Azimuths: [0.5938274, 0.5938274]
+Elevations: [0.99085253, 0.99085253]
+Distances: [0.014842816, 0.014842816]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_102
+Azimuths: [0.27045423, 0.27045423]
+Elevations: [0.9903977, 0.9903977]
+Distances: [0.0013975231, 0.0013975231]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_103
+Azimuths: [0.006122216, 0.006122216]
+Elevations: [0.9791865, 0.9791865]
+Distances: [0.0008989954, 0.0008989954]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_104
+Azimuths: [0.001004919, 0.001004919]
+Elevations: [0.84280485, 0.84280485]
+Distances: [0.0011483703, 0.0011483703]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_105
+Azimuths: [0.004306052, 0.004306052]
+Elevations: [0.7841698, 0.7841698]
+Distances: [0.0010882507, 0.0010882507]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_106
+Azimuths: [0.012794, 0.012794]
+Elevations: [0.73788595, 0.73788595]
+Distances: [0.0005931519, 0.0005931519]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_107
+Azimuths: [0.015858691, 0.015858691]
+Elevations: [0.7017988, 0.7017988]
+Distances: [0.00015634092, 0.00015634092]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_108
+Azimuths: [0.00038073945, 0.00038073945]
+Elevations: [0.3121045, 0.3121045]
+Distances: [1.6000153e-05, 1.6000153e-05]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_109
+Azimuths: [0.00038898582, 0.00038898582]
+Elevations: [0.21434602, 0.21434602]
+Distances: [1.1682849e-05, 1.1682849e-05]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_110
+Azimuths: [0.02038392, 0.02038392]
+Elevations: [0.54222596, 0.54222596]
+Distances: [3.200701e-05, 3.200701e-05]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_111
+Azimuths: [0.0040033837, 0.0040033837]
+Elevations: [0.35349947, 0.35349947]
+Distances: [9.638531e-06, 9.638531e-06]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_112
+Azimuths: [0.0011852741, 0.0011852741]
+Elevations: [0.318663, 0.318663]
+Distances: [6.9551693e-06, 6.9551693e-06]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_113
+Azimuths: [0.00027649145, 0.00027649145]
+Elevations: [0.13992967, 0.13992967]
+Distances: [3.596179e-06, 3.596179e-06]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_114
+Azimuths: [0.0004594099, 0.0004594099]
+Elevations: [0.13590932, 0.13590932]
+Distances: [5.4179604e-06, 5.4179604e-06]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_115
+Azimuths: [0.0004505105, 0.0004505105]
+Elevations: [0.113411576, 0.113411576]
+Distances: [6.1343276e-06, 6.1343276e-06]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_116
+Azimuths: [0.00083987403, 0.00083987403]
+Elevations: [0.11846836, 0.11846836]
+Distances: [9.5756905e-06, 9.5756905e-06]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_117
+Azimuths: [0.001802891, 0.001802891]
+Elevations: [0.14455418, 0.14455418]
+Distances: [7.615005e-06, 7.615005e-06]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_118
+Azimuths: [0.015750004, 0.015750004]
+Elevations: [0.3767164, 0.3767164]
+Distances: [4.6723697e-05, 4.6723697e-05]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_119
+Azimuths: [0.002567316, 0.002567316]
+Elevations: [0.3453071, 0.3453071]
+Distances: [1.3054376e-05, 1.3054376e-05]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_120
+Azimuths: [0.0016488973, 0.0016488973]
+Elevations: [0.35004085, 0.35004085]
+Distances: [1.0862094e-05, 1.0862094e-05]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_121
+Azimuths: [0.0033056177, 0.0033056177]
+Elevations: [0.34477732, 0.34477732]
+Distances: [2.4960282e-05, 2.4960282e-05]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_122
+Azimuths: [0.0032736468, 0.0032736468]
+Elevations: [0.29498836, 0.29498836]
+Distances: [0.00010921451, 0.00010921451]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_123
+Azimuths: [0.003393921, 0.003393921]
+Elevations: [0.14985266, 0.14985266]
+Distances: [0.00011638509, 0.00011638509]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_124
+Azimuths: [0.008320215, 0.008320215]
+Elevations: [0.07760655, 0.07760655]
+Distances: [0.00060841395, 0.00060841395]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_125
+Azimuths: [0.017098986, 0.017098986]
+Elevations: [0.03469517, 0.03469517]
+Distances: [0.0008311781, 0.0008311781]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_126
+Azimuths: [0.03663682, 0.03663682]
+Elevations: [0.056722317, 0.056722317]
+Distances: [0.00054532965, 0.00054532965]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 7_127
+Azimuths: [0.019209417, 0.019209417]
+Elevations: [0.04055058, 0.04055058]
+Distances: [0.00033277206, 0.00033277206]
+Timestamps: [0.0, 0.0]
+Class ID: 7
+------
+Sound Event ID: 6_0
+Azimuths: [3.021711, 3.021711]
+Elevations: [2.7649395, 2.7649395]
+Distances: [2.541637, 2.541637]
+Timestamps: [1.0, 1.0]
+Class ID: 6
+------
+Sound Event ID: 6_1
+Azimuths: [3.1262455, 3.1262455]
+Elevations: [2.0413623, 2.0413623]
+Distances: [2.5820508, 2.5820508]
+Timestamps: [1.0, 1.0]
+Class ID: 6
+------
+Sound Event ID: 6_2
+Azimuths: [2.9486208, 2.9486208]
+Elevations: [1.9145437, 1.9145437]
+Distances: [2.488299, 2.488299]
+Timestamps: [1.0, 1.0]
+Class ID: 6
+------
+Sound Event ID: 14_3
+Azimuths: [2.891449, 2.891449]
+Elevations: [1.8903035, 1.8903035]
+Distances: [2.522663, 2.522663]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_4
+Azimuths: [2.8763676, 2.8763676]
+Elevations: [2.0001197, 2.0001197]
+Distances: [2.207364, 2.207364]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_5
+Azimuths: [2.9974716, 2.9974716]
+Elevations: [2.1183407, 2.1183407]
+Distances: [2.3954725, 2.3954725]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_6
+Azimuths: [2.9696245, 2.9696245]
+Elevations: [2.1345673, 2.1345673]
+Distances: [2.1875477, 2.1875477]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_7
+Azimuths: [3.0443192, 3.0443192]
+Elevations: [2.296843, 2.296843]
+Distances: [2.3629837, 2.3629837]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_8
+Azimuths: [3.0875793, 3.0875793]
+Elevations: [2.2535605, 2.2535605]
+Distances: [2.4383683, 2.4383683]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_9
+Azimuths: [2.8294873, 2.8294873]
+Elevations: [1.9099176, 1.9099176]
+Distances: [1.9989129, 1.9989129]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_10
+Azimuths: [2.8956933, 2.8956933]
+Elevations: [2.0005388, 2.0005388]
+Distances: [2.1255994, 2.1255994]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_11
+Azimuths: [2.8066154, 2.8066154]
+Elevations: [1.7505592, 1.7505592]
+Distances: [1.9487026, 1.9487026]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_12
+Azimuths: [2.9500706, 2.9500706]
+Elevations: [1.7355466, 1.7355466]
+Distances: [2.1772177, 2.1772177]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_13
+Azimuths: [2.9377787, 2.9377787]
+Elevations: [1.7174896, 1.7174896]
+Distances: [2.1918893, 2.1918893]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_14
+Azimuths: [2.895429, 2.895429]
+Elevations: [1.6669343, 1.6669343]
+Distances: [2.2800927, 2.2800927]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_15
+Azimuths: [2.8690648, 2.8690648]
+Elevations: [1.7204597, 1.7204597]
+Distances: [2.2383175, 2.2383175]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_16
+Azimuths: [2.7698622, 2.7698622]
+Elevations: [1.6533037, 1.6533037]
+Distances: [2.2173338, 2.2173338]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_17
+Azimuths: [2.5714688, 2.5714688]
+Elevations: [1.4788803, 1.4788803]
+Distances: [2.1556463, 2.1556463]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_18
+Azimuths: [2.652391, 2.652391]
+Elevations: [1.4530252, 1.4530252]
+Distances: [2.3241398, 2.3241398]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_19
+Azimuths: [2.7788746, 2.7788746]
+Elevations: [1.4885278, 1.4885278]
+Distances: [2.4936724, 2.4936724]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_20
+Azimuths: [2.7543256, 2.7543256]
+Elevations: [1.4840105, 1.4840105]
+Distances: [2.4662898, 2.4662898]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_21
+Azimuths: [2.6239386, 2.6239386]
+Elevations: [1.3409045, 1.3409045]
+Distances: [2.357345, 2.357345]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_22
+Azimuths: [2.5654006, 2.5654006]
+Elevations: [1.2836146, 1.2836146]
+Distances: [2.304586, 2.304586]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_23
+Azimuths: [2.6090312, 2.6090312]
+Elevations: [1.3652879, 1.3652879]
+Distances: [2.550652, 2.550652]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_24
+Azimuths: [2.566242, 2.566242]
+Elevations: [1.2207334, 1.2207334]
+Distances: [2.445401, 2.445401]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_25
+Azimuths: [2.663766, 2.663766]
+Elevations: [1.1957867, 1.1957867]
+Distances: [2.6014519, 2.6014519]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_26
+Azimuths: [2.6538534, 2.6538534]
+Elevations: [1.154607, 1.154607]
+Distances: [2.5940824, 2.5940824]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_27
+Azimuths: [2.603766, 2.603766]
+Elevations: [1.0981638, 1.0981638]
+Distances: [2.4747384, 2.4747384]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_28
+Azimuths: [2.613861, 2.613861]
+Elevations: [1.0918806, 1.0918806]
+Distances: [2.4538808, 2.4538808]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_29
+Azimuths: [2.750339, 2.750339]
+Elevations: [1.1795852, 1.1795852]
+Distances: [2.6042583, 2.6042583]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_30
+Azimuths: [2.8259225, 2.8259225]
+Elevations: [1.2885801, 1.2885801]
+Distances: [2.789708, 2.789708]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_31
+Azimuths: [2.803678, 2.803678]
+Elevations: [1.2900246, 1.2900246]
+Distances: [2.8759828, 2.8759828]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_32
+Azimuths: [2.780365, 2.780365]
+Elevations: [1.1800395, 1.1800395]
+Distances: [2.8956022, 2.8956022]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_33
+Azimuths: [2.8038087, 2.8038087]
+Elevations: [1.2172415, 1.2172415]
+Distances: [2.6167817, 2.6167817]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_34
+Azimuths: [2.7782655, 2.7782655]
+Elevations: [0.9203655, 0.9203655]
+Distances: [2.2918124, 2.2918124]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_35
+Azimuths: [2.7814865, 2.7814865]
+Elevations: [0.8585603, 0.8585603]
+Distances: [2.190301, 2.190301]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_36
+Azimuths: [3.0726101, 3.0726101]
+Elevations: [0.8539258, 0.8539258]
+Distances: [2.4848022, 2.4848022]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_37
+Azimuths: [3.3193798, 3.3193798]
+Elevations: [0.8503359, 0.8503359]
+Distances: [2.768126, 2.768126]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_38
+Azimuths: [3.401447, 3.401447]
+Elevations: [1.0353878, 1.0353878]
+Distances: [3.1475468, 3.1475468]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_39
+Azimuths: [3.3392181, 3.3392181]
+Elevations: [1.048229, 1.048229]
+Distances: [3.153255, 3.153255]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_40
+Azimuths: [3.2808657, 3.2808657]
+Elevations: [0.9248526, 0.9248526]
+Distances: [2.8894796, 2.8894796]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_41
+Azimuths: [3.3577764, 3.3577764]
+Elevations: [0.81442434, 0.81442434]
+Distances: [2.6114714, 2.6114714]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_42
+Azimuths: [3.594886, 3.594886]
+Elevations: [0.70524895, 0.70524895]
+Distances: [2.772798, 2.772798]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_43
+Azimuths: [3.6910367, 3.6910367]
+Elevations: [0.82856834, 0.82856834]
+Distances: [2.8210444, 2.8210444]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_44
+Azimuths: [2.970606, 2.970606]
+Elevations: [0.61672294, 0.61672294]
+Distances: [2.7539153, 2.7539153]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_45
+Azimuths: [3.3563647, 3.3563647]
+Elevations: [0.54128397, 0.54128397]
+Distances: [2.9082413, 2.9082413]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_46
+Azimuths: [3.370332, 3.370332]
+Elevations: [0.450454, 0.450454]
+Distances: [2.8754644, 2.8754644]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_47
+Azimuths: [3.3259578, 3.3259578]
+Elevations: [0.44066143, 0.44066143]
+Distances: [3.0315633, 3.0315633]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_48
+Azimuths: [3.2355704, 3.2355704]
+Elevations: [0.54244477, 0.54244477]
+Distances: [3.1714811, 3.1714811]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_49
+Azimuths: [2.8621016, 2.8621016]
+Elevations: [0.45447162, 0.45447162]
+Distances: [3.0905643, 3.0905643]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_50
+Azimuths: [3.1008615, 3.1008615]
+Elevations: [0.37573525, 0.37573525]
+Distances: [2.968957, 2.968957]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_51
+Azimuths: [3.0194743, 3.0194743]
+Elevations: [0.2557204, 0.2557204]
+Distances: [2.7863402, 2.7863402]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_52
+Azimuths: [3.0918655, 3.0918655]
+Elevations: [0.23552391, 0.23552391]
+Distances: [2.828164, 2.828164]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_53
+Azimuths: [3.3911536, 3.3911536]
+Elevations: [0.23367247, 0.23367247]
+Distances: [3.0178704, 3.0178704]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_54
+Azimuths: [3.3365567, 3.3365567]
+Elevations: [0.2018992, 0.2018992]
+Distances: [3.2423325, 3.2423325]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_55
+Azimuths: [3.520083, 3.520083]
+Elevations: [0.29409644, 0.29409644]
+Distances: [3.622271, 3.622271]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_56
+Azimuths: [3.2459273, 3.2459273]
+Elevations: [0.43456274, 0.43456274]
+Distances: [3.7623534, 3.7623534]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_57
+Azimuths: [2.8765268, 2.8765268]
+Elevations: [0.2803061, 0.2803061]
+Distances: [3.4326544, 3.4326544]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_58
+Azimuths: [2.729833, 2.729833]
+Elevations: [0.31695566, 0.31695566]
+Distances: [3.4893103, 3.4893103]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_59
+Azimuths: [2.7657332, 2.7657332]
+Elevations: [0.35095975, 0.35095975]
+Distances: [3.4120564, 3.4120564]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_60
+Azimuths: [2.7801166, 2.7801166]
+Elevations: [0.331665, 0.331665]
+Distances: [3.2749577, 3.2749577]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_61
+Azimuths: [2.8001232, 2.8001232]
+Elevations: [0.23795906, 0.23795906]
+Distances: [3.041257, 3.041257]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_62
+Azimuths: [3.2305684, 3.2305684]
+Elevations: [0.2654461, 0.2654461]
+Distances: [3.1533785, 3.1533785]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_63
+Azimuths: [3.2716467, 3.2716467]
+Elevations: [0.1493172, 0.1493172]
+Distances: [3.4239125, 3.4239125]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_64
+Azimuths: [3.1924808, 3.1924808]
+Elevations: [0.078908265, 0.078908265]
+Distances: [3.5502357, 3.5502357]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_65
+Azimuths: [3.2834504, 3.2834504]
+Elevations: [0.13850057, 0.13850057]
+Distances: [3.4833255, 3.4833255]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_66
+Azimuths: [3.2997289, 3.2997289]
+Elevations: [0.1022104, 0.1022104]
+Distances: [3.323649, 3.323649]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_67
+Azimuths: [3.4067254, 3.4067254]
+Elevations: [0.2027685, 0.2027685]
+Distances: [3.729432, 3.729432]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_68
+Azimuths: [3.2387273, 3.2387273]
+Elevations: [0.2733785, 0.2733785]
+Distances: [3.9187598, 3.9187598]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_69
+Azimuths: [3.0655873, 3.0655873]
+Elevations: [0.30970278, 0.30970278]
+Distances: [3.7165608, 3.7165608]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_70
+Azimuths: [3.073975, 3.073975]
+Elevations: [0.30517784, 0.30517784]
+Distances: [3.6595654, 3.6595654]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_71
+Azimuths: [2.9761348, 2.9761348]
+Elevations: [0.20214817, 0.20214817]
+Distances: [3.6107683, 3.6107683]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_72
+Azimuths: [3.1115139, 3.1115139]
+Elevations: [0.22522035, 0.22522035]
+Distances: [3.7065086, 3.7065086]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_73
+Azimuths: [3.2179775, 3.2179775]
+Elevations: [0.48662043, 0.48662043]
+Distances: [3.9945703, 3.9945703]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_74
+Azimuths: [3.170873, 3.170873]
+Elevations: [0.68266976, 0.68266976]
+Distances: [3.9695845, 3.9695845]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_75
+Azimuths: [3.182236, 3.182236]
+Elevations: [0.7458246, 0.7458246]
+Distances: [3.8970327, 3.8970327]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_76
+Azimuths: [3.1449811, 3.1449811]
+Elevations: [0.71074754, 0.71074754]
+Distances: [3.6847858, 3.6847858]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_77
+Azimuths: [3.1410456, 3.1410456]
+Elevations: [0.716352, 0.716352]
+Distances: [3.8188658, 3.8188658]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_78
+Azimuths: [2.987567, 2.987567]
+Elevations: [0.6727822, 0.6727822]
+Distances: [3.8190112, 3.8190112]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_79
+Azimuths: [2.9446254, 2.9446254]
+Elevations: [0.6084971, 0.6084971]
+Distances: [3.8420382, 3.8420382]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_80
+Azimuths: [3.0038292, 3.0038292]
+Elevations: [0.7170905, 0.7170905]
+Distances: [3.9274726, 3.9274726]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_81
+Azimuths: [3.035474, 3.035474]
+Elevations: [0.683838, 0.683838]
+Distances: [3.8006773, 3.8006773]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_82
+Azimuths: [3.1231894, 3.1231894]
+Elevations: [0.6898727, 0.6898727]
+Distances: [3.849595, 3.849595]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_83
+Azimuths: [3.0273678, 3.0273678]
+Elevations: [0.61192334, 0.61192334]
+Distances: [3.6162062, 3.6162062]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_84
+Azimuths: [3.2801619, 3.2801619]
+Elevations: [0.72590065, 0.72590065]
+Distances: [3.7755356, 3.7755356]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_85
+Azimuths: [3.179583, 3.179583]
+Elevations: [0.70348835, 0.70348835]
+Distances: [3.681088, 3.681088]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_86
+Azimuths: [3.2535734, 3.2535734]
+Elevations: [0.7772542, 0.7772542]
+Distances: [3.794073, 3.794073]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_87
+Azimuths: [3.2051334, 3.2051334]
+Elevations: [0.83856875, 0.83856875]
+Distances: [3.7862964, 3.7862964]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_88
+Azimuths: [3.0592213, 3.0592213]
+Elevations: [0.8569449, 0.8569449]
+Distances: [3.8610883, 3.8610883]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_89
+Azimuths: [3.0334396, 3.0334396]
+Elevations: [0.7917036, 0.7917036]
+Distances: [3.8892217, 3.8892217]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_90
+Azimuths: [3.1272001, 3.1272001]
+Elevations: [0.80301136, 0.80301136]
+Distances: [3.9572172, 3.9572172]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_91
+Azimuths: [3.3360007, 3.3360007]
+Elevations: [0.89287853, 0.89287853]
+Distances: [3.8550682, 3.8550682]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_92
+Azimuths: [3.399252, 3.399252]
+Elevations: [1.0654736, 1.0654736]
+Distances: [3.919499, 3.919499]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_93
+Azimuths: [3.327929, 3.327929]
+Elevations: [0.968595, 0.968595]
+Distances: [3.7430868, 3.7430868]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_94
+Azimuths: [3.3184197, 3.3184197]
+Elevations: [0.8952278, 0.8952278]
+Distances: [3.7027798, 3.7027798]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_95
+Azimuths: [3.1988294, 3.1988294]
+Elevations: [0.8094299, 0.8094299]
+Distances: [3.791181, 3.791181]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_96
+Azimuths: [3.045017, 3.045017]
+Elevations: [0.8832885, 0.8832885]
+Distances: [3.9860892, 3.9860892]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_97
+Azimuths: [3.1529152, 3.1529152]
+Elevations: [0.90282035, 0.90282035]
+Distances: [3.8800764, 3.8800764]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_98
+Azimuths: [3.3680077, 3.3680077]
+Elevations: [0.93987715, 0.93987715]
+Distances: [3.7751756, 3.7751756]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_99
+Azimuths: [3.3202317, 3.3202317]
+Elevations: [1.0677704, 1.0677704]
+Distances: [3.736329, 3.736329]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_100
+Azimuths: [3.1665058, 3.1665058]
+Elevations: [0.86486566, 0.86486566]
+Distances: [3.3932376, 3.3932376]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_101
+Azimuths: [3.1190083, 3.1190083]
+Elevations: [0.743448, 0.743448]
+Distances: [3.3970904, 3.3970904]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_102
+Azimuths: [3.0402353, 3.0402353]
+Elevations: [0.64741755, 0.64741755]
+Distances: [3.6107922, 3.6107922]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_103
+Azimuths: [3.4039462, 3.4039462]
+Elevations: [0.80537033, 0.80537033]
+Distances: [3.8120565, 3.8120565]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_104
+Azimuths: [3.5290122, 3.5290122]
+Elevations: [1.1500009, 1.1500009]
+Distances: [3.9340944, 3.9340944]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_105
+Azimuths: [3.4573314, 3.4573314]
+Elevations: [1.225162, 1.225162]
+Distances: [3.8911157, 3.8911157]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_106
+Azimuths: [3.2027519, 3.2027519]
+Elevations: [1.162855, 1.162855]
+Distances: [3.786725, 3.786725]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_107
+Azimuths: [2.8567483, 2.8567483]
+Elevations: [1.110596, 1.110596]
+Distances: [3.769051, 3.769051]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_108
+Azimuths: [2.8702083, 2.8702083]
+Elevations: [1.1352229, 1.1352229]
+Distances: [3.9154053, 3.9154053]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_109
+Azimuths: [2.8125777, 2.8125777]
+Elevations: [1.2011333, 1.2011333]
+Distances: [3.8721828, 3.8721828]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_110
+Azimuths: [2.557354, 2.557354]
+Elevations: [1.1501577, 1.1501577]
+Distances: [3.8097816, 3.8097816]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_111
+Azimuths: [2.595324, 2.595324]
+Elevations: [1.1830477, 1.1830477]
+Distances: [4.014391, 4.014391]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_112
+Azimuths: [2.6520772, 2.6520772]
+Elevations: [1.2594998, 1.2594998]
+Distances: [4.030616, 4.030616]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_113
+Azimuths: [2.6519704, 2.6519704]
+Elevations: [1.3274106, 1.3274106]
+Distances: [3.933405, 3.933405]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_114
+Azimuths: [2.583216, 2.583216]
+Elevations: [1.3627391, 1.3627391]
+Distances: [3.9093199, 3.9093199]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_115
+Azimuths: [2.5313673, 2.5313673]
+Elevations: [1.378728, 1.378728]
+Distances: [3.8973627, 3.8973627]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_116
+Azimuths: [2.5760813, 2.5760813]
+Elevations: [1.4125605, 1.4125605]
+Distances: [3.8682814, 3.8682814]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_117
+Azimuths: [2.4565022, 2.4565022]
+Elevations: [1.3996475, 1.3996475]
+Distances: [3.8619313, 3.8619313]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_118
+Azimuths: [2.5495741, 2.5495741]
+Elevations: [1.3960652, 1.3960652]
+Distances: [3.75771, 3.75771]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_119
+Azimuths: [2.7158966, 2.7158966]
+Elevations: [1.4948905, 1.4948905]
+Distances: [4.0003843, 4.0003843]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 10_120
+Azimuths: [2.8152277, 2.8152277]
+Elevations: [1.5522985, 1.5522985]
+Distances: [3.9360352, 3.9360352]
+Timestamps: [1.0, 1.0]
+Class ID: 10
+------
+Sound Event ID: 14_121
+Azimuths: [2.8029585, 2.8029585]
+Elevations: [1.6078141, 1.6078141]
+Distances: [3.7760534, 3.7760534]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 14_122
+Azimuths: [3.0299213, 3.0299213]
+Elevations: [1.8048512, 1.8048512]
+Distances: [3.6481128, 3.6481128]
+Timestamps: [1.0, 1.0]
+Class ID: 14
+------
+Sound Event ID: 4_123
+Azimuths: [3.0306838, 3.0306838]
+Elevations: [1.9819778, 1.9819778]
+Distances: [3.6091857, 3.6091857]
+Timestamps: [1.0, 1.0]
+Class ID: 4
+------
+Sound Event ID: 4_124
+Azimuths: [3.155178, 3.155178]
+Elevations: [2.1960807, 2.1960807]
+Distances: [3.4387817, 3.4387817]
+Timestamps: [1.0, 1.0]
+Class ID: 4
+------
+Sound Event ID: 4_125
+Azimuths: [3.1737833, 3.1737833]
+Elevations: [2.386257, 2.386257]
+Distances: [3.4503322, 3.4503322]
+Timestamps: [1.0, 1.0]
+Class ID: 4
+------
+Sound Event ID: 4_126
+Azimuths: [3.1622605, 3.1622605]
+Elevations: [2.3911808, 2.3911808]
+Distances: [3.4941778, 3.4941778]
+Timestamps: [1.0, 1.0]
+Class ID: 4
+------
+Sound Event ID: 1_127
+Azimuths: [3.1945167, 3.1945167]
+Elevations: [2.5291138, 2.5291138]
+Distances: [3.4532347, 3.4532347]
+Timestamps: [1.0, 1.0]
+Class ID: 1
+------
