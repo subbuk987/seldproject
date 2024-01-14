@@ -13,7 +13,7 @@ import os
 def loadmodel():
 
   # Load the model
-  model = load_model('/Users/subramanyam/Downloads/1_foa_dev_split3_model (1).h5')
+  model = load_model('model.h5')
   return model
 
 model = loadmodel()
